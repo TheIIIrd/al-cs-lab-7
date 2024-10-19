@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Classes><Class Name="User"><Comment>Класс представляющий пользователя.</Comment></Class><Class Name="Product"><Comment>Класс представляющий продукт.</Comment></Class><Class Name="Order"><Comment>Класс представляющий заказ.</Comment></Class><Class Name="CommentAttribute" /></Classes>
