@@ -5,16 +5,16 @@ Reflexion in C#
 ```
 .
 ├── classDiagram.xml
-├── .gitignore
 ├── LICENSE
-├── MyLibrary
-│   ├── Class1.cs
-│   ├── CommentAttribute.cs
-│   └── MyLibrary.csproj
 ├── README.md
-└── XmlGenerator
-    ├── Program.cs
-    └── XmlGenerator.csproj
+└── src
+    ├── MyLibrary
+    │   ├── Class1.cs
+    │   ├── CommentAttribute.cs
+    │   └── MyLibrary.csproj
+    └── XmlGenerator
+        ├── Program.cs
+        └── XmlGenerator.csproj
 ```
 
 ## License
